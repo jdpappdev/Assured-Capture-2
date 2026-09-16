@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="camera_images" path="." />
+    <files-path name="inspection_photos" path="photos/" />
+    <files-path name="exports" path="exports/" />
+    <cache-path name="exports_cache" path="exports/" />
+</paths>

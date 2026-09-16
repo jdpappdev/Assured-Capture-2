@@ -1,0 +1,7 @@
+{
+  "name": "Assured Capture",
+  "description": "Field inspection reporting tool with reliable multi-image capture, sequential issue tracking, and voice-to-text photo notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
